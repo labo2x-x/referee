@@ -2,21 +2,21 @@
 SPDX-License-Identifier: Apache-2.0  
 Version 2.0 · 6 November 2026 · first released 19 July 2026
 
-# 📝 Referee Skill
+# Referee Skill
 
 A structured referee-review workflow for finance and economics manuscripts.
 
 Peer review is an important service to the academic community, but doing it well takes considerable time and effort. Referee skill is designed to make the process more manageable without losing what makes it valuable: your independent judgment and constructive feedback.
 
-- 🧠 **You** focus on evaluating the paper and developing your key comments.
-- 🛠️ **This skill** helps fact-check your comments against the paper, then turns them into a polished report in your preferred format.
-- 🛠️ **This skill** also prepares an independent review, which stays hidden until you've written your comments. You can then compare perspectives, revisit your arguments, and strengthen your final report.
+- **You** focus on evaluating the paper and developing your key comments.
+- **This skill** helps fact-check your comments against the paper, then turns them into a polished report in your preferred format.
+- **This skill** also prepares an independent review, which stays hidden until you've written your comments. You can then compare perspectives, revisit your arguments, and strengthen your final report.
 
-🎯 <ins>***The goal is simple: save time on the process while keeping your intellectual contribution at the center of peer review.***</ins>
+<ins>***The goal is simple: save time on the process while keeping your intellectual contribution at the center of peer review.***</ins>
 
-> 💡 **Note:** You can also use this skill to study a paper like a referee.
+> **Note:** You can also use this skill to study a paper like a referee.
 
-## 📦 What's here
+## What's here
 
 ```
 referee/
@@ -26,7 +26,7 @@ referee/
 └── templates/    default reading structure and report format
 ```
 
-## ⚙️ Installing
+## Installing
 
 **In the Claude app (web, desktop or mobile)**
 
@@ -39,7 +39,7 @@ referee/
 
 Unzip the latest released ZIP and copy the `referee/` folder into `~/.claude/skills/`.
 
-## 👓 Starting a review
+## Starting a review
 
 Make a **new folder for the paper** — one folder per manuscript, not the skill's own folder. Inside it:
 
@@ -51,7 +51,7 @@ your_case_folder/
 
 Then ask Claude to referee the paper. It will walk you through the rest.
 
-## 🗂️ The two structure files
+## The two structure files
 
 Two files decide what your review looks like:
 
@@ -65,7 +65,7 @@ At the start of a case Claude will ask which you want:
 
 You can edit the bundled defaults to suit yourself once you've run a case or two.
 
-## 📄 What you get
+## What you get
 
 | File | What it is |
 |---|---|
@@ -76,6 +76,6 @@ You can edit the bundled defaults to suit yourself once you've run a case or two
 
 Claude's own sealed draft sits in `input/.staging/` until you have written your comments. **Don't open it before then** — the whole method rests on that.
 
-## 🔒 Confidentiality
+## Confidentiality
 
 A paper under review belongs to its authors and the journal. Nothing from the manuscript, your comments, or your editor-only remarks is written to Claude's memory. At the end of a case Claude offers to clear the working files, and reminds you that the conversation itself still holds the paper — deleting that one is your step.

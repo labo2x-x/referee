@@ -3,7 +3,7 @@ name: referee
 description: This is a human-centered AI assisted referee skill, which runs a structured referee review of an academic manuscript, keeping the assistant's opinion sealed until the user has written their own. Use when the user wants to review a paper, or prepare a referee report. Produces 1) a paper summary in the user's reading structure, 2) a sealed independent draft, 3) a fact check of the user's own comments against the paper, 4) a final referee report, and a letter to the editor.
 license: "Apache-2.0. © 2026 Xue Xiao. See LICENSE.md"
 metadata:
-  version: "5.0"
+  version: "2.0"
   created: "2026-07-19"
   updated: "2026-11-06"
 ---
@@ -14,9 +14,9 @@ A five-phase review workflow.
 
 The point of it: peer review is only as good as the referee's own judgment. So the skill splits the work:
 
-- **The user does the thinking.** Their comments are the core of the report.
-- **The assistant does the legwork.** It reads the paper into a structure, cross-checks the user's comments against the paper for errors, and builds the report and letter in the right format.
-- **The assistant's view stays sealed.** It writes its own read of the paper first, seals it, and shows it only after the user has written their comments.
+- **The human user does the thinking.** Their comments are the core of the report.
+- **The AI assistant does the legwork.** It reads the paper into a structure, cross-checks the user's comments against the paper for errors, and builds the report and letter in the right format.
+- **The AI assistant's view stays sealed.** It writes its own read of the paper first, seals it, and shows it only after the user has written their comments.
 
 Read this whole file before starting. Run the phases in order. Ask one question at a time and wait for the answer.
 
