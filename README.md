@@ -4,7 +4,7 @@ Version 2.0 · 6 November 2026 · first released 19 July 2026
 
 # 📝 Referee Skill
 
-A structured referee-review workflow for finance and economics manuscripts.
+A structured referee-review workflow designed for finance, economics and real estate related manuscripts.
 
 Peer review is an important service to the academic community, but doing it well takes considerable time and effort. Referee skill is designed to make the process more manageable without losing what makes it valuable: your independent judgment and constructive feedback.
 
