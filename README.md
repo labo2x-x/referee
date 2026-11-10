@@ -12,7 +12,7 @@ Peer review is an important service to the academic community, but doing it well
 - 🛠️ **This skill** helps fact-check your comments against the paper, then turns them into a polished report in your preferred format.
 - 🛠️ **This skill** also prepares an independent review, which stays hidden until you've written your comments. You can then compare perspectives, revisit your arguments, and strengthen your final report.
 
-🎯 <ins>***The goal is simple: save time on the process while keeping your intellectual contribution at the center of peer review.***</ins>
+🎯 <ins>***The goal is simple: save time on the process while keeping your human intellectual contribution at the center of peer review.***</ins>
 
 > 💡 **Note:** You can also use this skill to study a paper like a referee.
 
